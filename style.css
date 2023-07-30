@@ -1,0 +1,127 @@
+body {
+    text-align: center;
+    color: #40514e;
+    margin: 0;
+    font-family: "Merriweather", "serif";
+    display: block;
+}
+.top-container {
+    background-color:#e4f9f5;
+    padding-top: 50px;
+    
+}
+.programer {
+    color: #66bfbf;
+    font-size: 2rem;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow-x: ;
+    overflow-y: ;
+}
+.first-cloud {
+    display: block;
+    position: absolute;
+    left: 800px;
+    top: 50px;
+}
+.second-cloud {
+    display: block;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+div {
+    display: block;
+}
+h1 {
+    display: block;
+    font-family: "Sacramento", "cursive";
+    color: #66bfbf;
+    margin: 110px auto 0 auto;
+    font-size: 4rem;
+}
+.pro {
+    text-decoration: underline;
+}
+.middle-container {
+    margin-top: 100px;
+}
+.self {
+    height: 200px;
+    border-radius: 50%;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.btn {
+    background-color: #11999e;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    margin: 10px 20px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+.message {
+    width: 30%;
+    margin: 40px auto 60px;
+}
+p {
+    line-height: 3;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: auto;
+    display: block;
+}
+.chill {
+    width: 150px;
+}
+.intro {
+    width: 30%;
+}
+hr {
+    margin: 100px auto;
+    border: #eaf6f6 dotted 7px;
+    display: block;
+    border-bottom: none;
+    width: 1%;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    margin: 100px auto 0 auto;
+    text-align: left;
+    width: 50%;
+    row-gap: 2rem;
+    column-gap: 1rem;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #11999e;
+}
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color: #66bfbf;
+    margin-top: 100px;
+}
+.connect {
+    margin: 10px 20px;
+    text-decoration: none;
+    color: #11999e;
+}
+.copy {
+    color: #ffffff;
+}
